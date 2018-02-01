@@ -1,1 +1,5 @@
-modulexmlsupporttest2/target/**
+<module xmlns="urn:jboss:module:1.0" name="org.jboss.module.example">
+  <exports>
+    <exclude path="modulexmlsupporttest2/target/**"/>
+  </exports>
+</module>
