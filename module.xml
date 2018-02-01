@@ -1,0 +1,5 @@
+<module xmlns="urn:jboss:module:1.0" name="org.jboss.module.example">
+  <exports>
+    <exclude path="modulexmlsupporttest2/target/module-xml-support-test-2-1.0-SNAPSHOT.jar"/>
+  </exports>
+</module>
